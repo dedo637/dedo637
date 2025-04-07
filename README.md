@@ -2,7 +2,7 @@
 
 ### Currently studying Web development
 - 🛠️ Learning Java, Python and JavaScript
-- 👾 I want to learn how to use different tools.
+- 👾 Tools I want to learn.
   - React 
   - Next.js
   - Astro
