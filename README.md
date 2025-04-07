@@ -2,14 +2,14 @@
 
 ### Currently studying Web development
 - 🛠️ Learning Java, Python and JavaScript
-- 👾 Tools I want to learn.
+- 🖥️ Tools I want to learn.
   - React 
   - Next.js
   - Astro
   - Larabel
   - Tailwind
   - Bootstrap
-- Programming languages I want to learn
+- 👾 Programming languages I want to learn
   - TypeScrpt
   - Php
   - C#/C++
