@@ -7,7 +7,6 @@
     <li><img width=15 src='imgs/java-logo.svg'> Java</li>
     <li><img width=15 src='imgs/python-logo.svg'> Python</li>
     <li><img width=12 src='imgs/javascript-logo.svg'> JavaScript</li>
-    <li><img align="center" width=15 src='imgs/nextjs-logo.svg'> Next.js</li>
     <li><img align="center" width=15 src='imgs/astro-logo.svg'> Astro</li>
     <li><img align="center" width=15 src='imgs/tailwind-logo.svg'> Tailwind</li>
   </ul>
@@ -18,6 +17,7 @@
 
   <ul>
     <li><img align="center" width=15 src='imgs/react-logo.svg'> React</li>
+    <li><img align="center" width=15 src='imgs/nextjs-logo.svg'> Next.js</li>
     <li><img align="center" width=15 src='imgs/laravel-logo.svg'> Laravel</li>
     <li><img align="center" width=15 src='imgs/bootstrap-logo.svg'> Bootstrap</li>
   </ul>
