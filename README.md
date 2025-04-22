@@ -9,6 +9,7 @@
     <li><img width=12 src='imgs/javascript-logo.svg'> JavaScript</li>
     <li><img align="center" width=15 src='imgs/astro-logo.svg'> Astro</li>
     <li><img align="center" width=15 src='imgs/tailwind-logo.svg'> Tailwind</li>
+    <li><img align="center" width=15 src='imgs/typescript-logo.svg'> TypeScript</li>
   </ul>
   
 ---
@@ -26,7 +27,6 @@
     
   ### 👾 Programming languages I want to learn.
   <ul>
-    <li><img align="center" width=15 src='imgs/typescript-logo.svg'> TypeScript</li>
     <li><img align="center" width=15 src='imgs/php-logo.svg'> Php</li>
     <li><img align="center" width=15 src='imgs/c-sharp-logo.svg'> C# / <img align="center" width=15 src='imgs/c-plus-logo.svg'> C++</li>
   </ul>
