@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Minecraft&duration=3500&pause=1000&color=ffffff&width=435&lines=%C2%A1Welcome!+%F0%9F%91%8B;My+name+is+Diego)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitcount+Ink&pause=1000&width=435&lines=!WELLCOME%C2%A1+%F0%9F%91%8B;Mi+name+is+Diego)](https://git.io/typing-svg)
 
 ---
 
